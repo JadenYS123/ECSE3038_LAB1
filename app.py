@@ -23,7 +23,7 @@ def potential_divider(j,r):
             Total_R = a + Total_R
 
         for a in r:
-            VR = (j*a ) / Total_R
+            VR = (j * a) / Total_R
             print(VR)
 
 
